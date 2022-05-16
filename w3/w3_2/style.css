@@ -1,0 +1,49 @@
+body{
+   
+    background-image: url('./assits/forestbridge.jpg');
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+  background-size: cover;
+background-position: center;
+ min-height: 100%;
+ max-width: 100%;
+}
+.logo{
+    font-family: Arial, sans-serif;
+padding: 12px 24px;
+font-size: 24px;
+}
+.title{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    position: 360px 183px 84px 73px;
+font-size: 34px !important;
+    padding: 200px;
+    margin: 10px;
+    font-weight: 400;
+}
+h1{
+    font-family: "Segoe UI",Arial,sans-serif;
+}
+.title,.link-p,.logo,.link-p a{
+    color: white;
+}
+p{
+    font-size: 18px;
+    margin: 18px 0;
+}
+hr{
+   border:0; 
+   border-top:1px solid white;
+ width: 40%;
+ margin: auto;
+ margin-top: -15px;
+}
+.link-p{
+
+    text-decoration: none;
+    position: 672px;
+}
+.link-p a{
+    text-decoration: none; 
+}
